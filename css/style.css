@@ -1,7 +1,30 @@
 #card-m {
     border-left:3px solid #2E5BFF ;
+    margin-bottom: 5px;
 }
 
 #card-h-b {
     font-weight: bold;
 }
+
+.card {
+    width: 17rem;
+
+}
+
+ul li::before {
+    content: "\2022";
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+  }
+
+#avatar {
+    width: 45px;
+}
+
+#avatar-right {
+    text-align: right;
+}
+

@@ -3,6 +3,10 @@ html *
 {
    font-family: 'Rubik' !important;
 }
+
+.block2 {
+  padding-top: 100px;
+}
 #card-m {
     margin-bottom: 5px;
 }
@@ -22,7 +26,6 @@ html *
 }
 
 ul li::before {
-    content: "\2022";
     font-weight: bold;
     display: inline-block; 
     width: 1em;

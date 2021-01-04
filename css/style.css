@@ -1,6 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap');
+html *
+{
+   font-family: 'Rubik' !important;
+}
 #card-m {
-    border-left:3px solid #2E5BFF ;
     margin-bottom: 5px;
+}
+
+.heading {
+    padding-top: 100px;
+    padding-bottom: 30px;
 }
 
 #card-h-b {
@@ -27,4 +36,55 @@ ul li::before {
 #avatar-right {
     text-align: right;
 }
+
+.button {
+    
+    border: none;
+    color: white;
+    padding: 1px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+    width: 29px;
+    margin-left: -23px;
+  }
+  .button4 {border-radius: 12px;}
+
+  #image-america {
+    max-width:90%;
+    max-height:90%;
+    padding-top: 10px;
+  }
+
+  #image-piechart { 
+    max-width:68%;
+    max-height:68%;
+    padding-top: 10px;
+  }
+
+  .avatar-row {
+      padding-top: 20px;
+  }
+
+  .pie-heading {
+      padding-top: 40px;
+  }
+
+  .bottom-head {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 15px;
+  }
+
+  .col {
+    flex: 1 0 18%; /* The important bit. This percentage decides your columns. 
+   The percent can be px. It just represents your minimum starting width.
+    */
+    display: flex;
+    text-align: center;
+  }
+  
+
+
 

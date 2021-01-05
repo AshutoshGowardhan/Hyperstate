@@ -87,6 +87,17 @@ ul li::before {
     display: flex;
     text-align: center;
   }
+
+  .lists {
+    display: flex;
+    flex: 1;
+  }
+  
+  .lists .list {
+    height: 100%;
+    min-height: 150px;
+    transition: all 0.2s linear;
+  }
   
 
 

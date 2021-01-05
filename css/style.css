@@ -1,7 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap');
-html *
+body
 {
-   font-family: 'Rubik' !important;
+   font-family: 'Rubik';
+}
+
+#card-h-a {
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.fa-fa-indent {
+  text-align: right;
+}
+
+#card-block-heading {
+  text-transform: uppercase;
+  color: #8798AD;
+  font-size: 13px;
 }
 
 .block2 {

@@ -34,7 +34,7 @@ body
   padding: 0px;
 }
 
-.navigation ul li:hover {
+.sidebar-hover:hover {
   background: #b7cbeb;
   border-left:3px solid #2E5BFF;
 }
@@ -72,7 +72,7 @@ body
 }
 
 .navigation ul li a .icon .fa {
-  font-size: 16px;
+  font-size: 15px;
 }
 
 .navigation ul li a .title {

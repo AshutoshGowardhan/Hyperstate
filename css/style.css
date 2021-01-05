@@ -86,7 +86,7 @@ body
 
 
 #card-h-a {
-  font-weight: bold;
+  font-weight: 500;
   font-size: 13px;
 }
 
@@ -111,9 +111,12 @@ body
     padding-top: 60px;
     padding-bottom: 30px;
 }
+.heading-text {
+  font-weight: 400;
+}
 
 #card-h-b {
-    font-weight: bold;
+    font-weight: 500;
 }
 
 .card {

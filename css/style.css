@@ -34,6 +34,12 @@ body
   padding: 0px;
 }
 
+.navigation ul li:hover {
+  background: #b7cbeb;
+  color: #2E5BFF;
+  border-left:3px solid #2E5BFF;
+}
+
 .navigation ul li {
   position: relative;
   width: 100%;

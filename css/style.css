@@ -36,8 +36,11 @@ body
 
 .navigation ul li:hover {
   background: #b7cbeb;
-  color: #2E5BFF;
   border-left:3px solid #2E5BFF;
+}
+
+.navigation ul li a:hover {
+  color:#2E5BFF
 }
 
 .velocity {
@@ -105,7 +108,7 @@ body
 }
 
 .heading {
-    padding-top: 100px;
+    padding-top: 60px;
     padding-bottom: 30px;
 }
 

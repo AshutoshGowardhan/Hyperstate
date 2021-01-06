@@ -139,6 +139,12 @@ body
   font-size: 13px;
 }
 
+#subheading {
+  text-transform: uppercase;
+  color: #8798AD;
+  font-size: 15px;
+}
+
 .block2 {
   padding-top: 100px;
 }

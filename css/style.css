@@ -18,17 +18,17 @@ body
 }
 
 .profile-li {
-  margin: 22px;
+  margin: 5px;
 }
 
 
 .welcome {
   visibility: hidden;
-  font-size: 15px;
+  font-size: 13px;
 }
 .name {
   visibility: hidden;
-  font-size: 15px;
+  font-size: 13px;
   white-space: nowrap;
   color:#B0BAC9;
 }
@@ -178,8 +178,8 @@ ul li::before {
   margin-left: 4px;
 }
 #avatar-profile {
-  width: 37px;
-  margin-top: 3px;
+  width: 27px;
+  margin-top: 8px;
   margin-left: 7px;
 }
 

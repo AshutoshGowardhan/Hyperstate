@@ -146,9 +146,20 @@ body
   font-size: 15px;
 }
 
-.block2 {
-  padding-top: 100px;
+.head-notification {
+  padding-bottom: 12px;
 }
+
+.expand {
+  padding-top: 50px;
+  padding-bottom: 70px;
+  color: #8798AD;
+}
+
+.block2 {
+  padding-bottom: 100px;
+}
+
 #card-m {
     margin-bottom: 5px;
 }

@@ -11,6 +11,19 @@ body
    font-family: 'Rubik';
 }
 
+.list-color-1 .list-color {
+  border-left:3px solid #2E5BFF;
+}
+.list-color-2 .list-color {
+  border-left:3px solid #8C54FF;
+}
+.list-color-3 .list-color {
+  border-left:3px solid #00C1D4;
+}
+.list-color-4 .list-color {
+  border-left:3px solid #F7C137;
+}
+
 
 .profile-img {
   text-align: right;

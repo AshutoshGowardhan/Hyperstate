@@ -11,6 +11,7 @@ body
    font-family: 'Rubik';
 }
 
+
 .profile-img {
   text-align: right;
   visibility: hidden;
@@ -158,6 +159,7 @@ body
 }
 .heading-text {
   font-weight: 400;
+  color: "#2E384D";
 }
 
 #card-h-b {
